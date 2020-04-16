@@ -1,0 +1,113 @@
+features = []
+    i = 0
+    for enemy in enemies:
+        temp = {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    enemy.get_longitude(),
+                    enemy.get_latitude()
+                ]
+            },
+            "properties": {
+                "title": 'Enemy' + str(i),
+                "icon": "monument"
+            }
+        }
+        features.append(temp)
+        i = i + 1
+
+    enemy_data = {
+        "type": "FeatureCollection",
+        "features": features
+    }
+
+    with open('./plots/enemies.geojson', 'w') as outfile:
+        json.dump(enemy_data, outfile)
+
+    features = []
+    i = 0
+    for soldier in soldiers:
+        temp = {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    soldier.get_longitude(),
+                    soldier.get_latitude()
+                ]
+            },
+            "properties": {
+                "title": 'Soldier' + str(i),
+                "icon": "monument"
+            }
+        }
+        features.append(temp)
+        i = i + 1
+
+    soldier_data = {
+        "type": "FeatureCollection",
+        "features": features
+    }
+
+    with open('./plots/soldiers.geojson', 'w') as outfile:
+        json.dump(soldier_data, outfile)
+
+    features = []
+    i = 0
+    for prediction in prediction_result:
+        for soldier in soldiers:
+            if Setup.get_distance(prediction.get_longitude(), prediction.get_latitude(), soldier.get_longitude(), soldier.get_latitude()) < 6:
+                prediction_result.remove(prediction)
+                break
+
+    for prediction in prediction_result:
+        temp = {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    prediction.get_longitude(),
+                    prediction.get_latitude()
+                ]
+            },
+            "properties": {
+                "title": 'Prediction' + str(i),
+                "icon": "monument",
+                "mag": prediction.get_power()
+            }
+        }
+        features.append(temp)
+        i = i + 1
+
+    prediction_data = {
+        "type": "FeatureCollection",
+        "features": features
+    }
+
+    with open('./plots/predictions' + str(z) + '.geojson', 'w') as outfile:
+        json.dump(prediction_data, outfile)
+
+    features = []
+    for soldier in soldiers:
+        coordinates = [
+            [soldier.get_longitude(), soldier.get_latitude()],
+            [soldier.get_target().get_longitude(), soldier.get_target().get_latitude()]
+        ]
+        feature = {
+            'type': 'Feature',
+            'geometry': {
+                "type": "LineString",
+                "coordinates": coordinates
+            }
+        }
+        features.append(feature)
+
+    shoot_data = {
+        "type": "FeatureCollection",
+        "features": features
+    }
+
+    with open('./plots/shoots' + str(z) + '.geojson', 'w') as outfile:
+        json.dump(shoot_data, outfile)
