@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8468291a-cbe4-445d-a943-abda62bccb08" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/KNNCluster/ClusterSetup.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNNCluster/ClusterSetup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/enemies.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/enemies.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions0.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions1.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions1.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions2.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions2.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions3.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions3.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions4.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions4.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions5.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions5.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions6.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions6.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions7.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions7.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions8.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions8.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions9.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions9.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots0.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots1.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots1.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots2.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots2.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots3.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots3.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots4.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots4.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots5.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots5.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots6.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots6.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots7.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots7.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots8.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots8.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots9.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots9.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/soldiers.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/soldiers.geojson" afterDir="false" />
-    </list>
+    <list default="true" id="8468291a-cbe4-445d-a943-abda62bccb08" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +84,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="347">
-                <caret line="38" column="119" selection-start-line="38" selection-start-column="119" selection-end-line="38" selection-end-column="119" />
+                <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -311,7 +286,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23489933" />
@@ -432,7 +407,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="347">
-            <caret line="38" column="119" selection-start-line="38" selection-start-column="119" selection-end-line="38" selection-end-column="119" />
+            <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
           </first_editor>
           <second_editor />
         </state>
