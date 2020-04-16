@@ -36,4 +36,4 @@ Longitude: 79.0535207<br />
 #### Black dots - True enemy locations
 #### Blue Circles - Localization results for that frame.
 
-![Readme Doc](https://user-images.githubusercontent.com/43084197/78444932-b27e1200-7696-11ea-9625-9ff173774aa6.png)
+![Readme Doc KNN](https://user-images.githubusercontent.com/43084197/79428925-79259a80-7fe4-11ea-95bc-11b08a1fdab9.png)

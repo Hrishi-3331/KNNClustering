@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8468291a-cbe4-445d-a943-abda62bccb08" name="Default Changelist" comment="" />
+    <list default="true" id="8468291a-cbe4-445d-a943-abda62bccb08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/KNNCluster/ClusterSetup.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNNCluster/ClusterSetup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/enemies.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/enemies.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/predictions0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/predictions1.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions1.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/predictions2.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions2.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/predictions3.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions3.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/predictions4.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions4.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/predictions5.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions5.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/predictions6.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions6.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/predictions7.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions7.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/predictions8.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions8.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/predictions9.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions9.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/shoots0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots0.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/shoots1.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots1.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/shoots2.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots2.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/shoots3.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots3.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/shoots4.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots4.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/shoots5.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots5.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/shoots6.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots6.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/shoots7.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots7.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/shoots8.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots8.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/shoots9.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots9.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/soldiers.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/soldiers.geojson" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/KNNClustering$main.coverage" NAME="main Coverage Results" MODIFIED="1587020146058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KNNClustering$main.coverage" NAME="main Coverage Results" MODIFIED="1587022177223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1736602870">
@@ -43,13 +68,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="101" />
-          <entry key="py" value="1737" />
+          <entry key="py" value="1739" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="101" />
-          <entry key="Python" value="1737" />
+          <entry key="Python" value="1739" />
         </counts>
       </usages-collector>
     </session>
@@ -73,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Setup/SimulationSetup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="159">
               <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
             </state>
           </provider>
@@ -82,9 +107,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor>
-                <caret column="86" selection-start-column="86" selection-end-column="86" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="347">
+                <caret line="38" column="119" selection-start-line="38" selection-start-column="119" selection-end-line="38" selection-end-column="119" />
               </first_editor>
               <second_editor />
             </state>
@@ -115,8 +140,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KNNCluster/ClusterSetup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-348">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="332">
+              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -174,8 +199,8 @@
         <option value="$PROJECT_DIR$/Setup/Calculations.py" />
         <option value="$PROJECT_DIR$/backup" />
         <option value="$PROJECT_DIR$/KNNCluster/ClusterHead.py" />
-        <option value="$PROJECT_DIR$/KNNCluster/ClusterSetup.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/KNNCluster/ClusterSetup.py" />
         <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
@@ -207,6 +232,11 @@
             <path>
               <item name="KNNClustering" type="b2602c69:ProjectViewProjectNode" />
               <item name="KNNClustering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KNNClustering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KNNClustering" type="462c0819:PsiDirectoryNode" />
+              <item name="plots" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,12 +314,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23489933" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23489933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27234042" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27234042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,9 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Objects/soldier.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/KNNCluster/ClusterHead.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
@@ -353,16 +380,6 @@
             <element signature="e#0#13#0" expanded="true" />
             <marker date="1586075552685" expanded="true" signature="72:78" ph="..." />
             <marker date="1586075552685" expanded="true" signature="524:553" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KNNCluster/ClusterSetup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-348">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -384,6 +401,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/soldier.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Setup/Calculations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -393,16 +413,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Setup/SimulationSetup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="159">
           <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KNNCluster/ClusterSetup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret column="86" selection-start-column="86" selection-end-column="86" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="347">
+            <caret line="38" column="119" selection-start-line="38" selection-start-column="119" selection-end-line="38" selection-end-column="119" />
           </first_editor>
           <second_editor />
         </state>

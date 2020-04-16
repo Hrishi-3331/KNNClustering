@@ -34,7 +34,7 @@ def get_clusters(predictions, enemies):
             if delta > max_delta:
                 max_delta = delta
 
-        if max_delta < 0.8:
+        if max_delta < 0.1:
             break
 
         else:
